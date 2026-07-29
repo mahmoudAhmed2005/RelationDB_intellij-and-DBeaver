@@ -1,0 +1,1 @@
+# RelationDB_intellij-and-DBeaver
